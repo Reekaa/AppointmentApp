@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appointments>
+    <appointment>
+        <customerName>Lynn Kelly</customerName>
+        <appointmentTime>10:00</appointmentTime>
+        <appointmentLength>30</appointmentLength>
+    </appointment>
+    <appointment>
+        <customerName>Ciara O'Donnell</customerName>
+        <appointmentTime>11:15</appointmentTime>
+        <appointmentLength>45</appointmentLength>
+    </appointment>
+    <appointment>
+        <customerName>Louise Kelly</customerName>
+        <appointmentTime>13:15</appointmentTime>
+        <appointmentLength>60</appointmentLength>
+    </appointment>        
+</appointments>
